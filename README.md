@@ -13,6 +13,6 @@
 ### Two ：應用 AI Agent
 #### 1. [dataAgent 幫你處理資料](https://github.com/Ya-Rong/net_learning/blob/main/dataAgent.py)
 #### 2. [應用 dataAgent 幫你做你想做的事](https://github.com/Ya-Rong/net_learning/blob/main/diary/dataAgent.py)
-####    *嘗試將其他資料套用到範例 dataAgent 中，並改寫成適合自己的 dataAgent。
+#####    (嘗試將其他資料套用到範例 dataAgent 中，並改寫成適合自己的 dataAgent。)
 
 ### Three ：
